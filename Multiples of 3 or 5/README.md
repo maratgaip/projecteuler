@@ -1,6 +1,3 @@
-lan
-
-
 ```javascript
 function multiples(n) {
 	sum = 0;
